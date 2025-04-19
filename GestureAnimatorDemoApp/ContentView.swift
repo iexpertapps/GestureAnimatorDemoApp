@@ -6,16 +6,14 @@
 //
 
 import SwiftUI
+import GestureAnimator
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+        NavigationStack {
+                   GestureShowcaseView()
+                       .navigationTitle("Gesture Animator Demo")
+               }
     }
 }
 

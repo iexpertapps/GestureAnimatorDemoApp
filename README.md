@@ -1,8 +1,7 @@
 # 🎯 GestureAnimatorDemoApp
 
-An interactive **SwiftUI** app that showcases the full capabilities of the [GestureAnimator](https://github.com/yourusername/GestureAnimator) Swift Package — a declarative, interruptible animation framework driven by gestures.
+An interactive **SwiftUI** app that showcases the full capabilities of the [GestureAnimator](https://github.com/iexpertapps/GestureAnimator.git) Swift Package — a declarative, interruptible animation framework driven by gestures.
 
-![demo-preview](Assets/demo-preview.gif) <!-- Replace with real screen recording or GIF -->
 
 ---
 

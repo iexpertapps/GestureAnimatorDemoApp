@@ -65,19 +65,6 @@ GestureAnimatorDemoApp/ViewModels/ – State and Bindings for each effect
 
 GestureAnimatorDemoApp/Utilities/ – FPS tracker, debug overlay
 
-📸 Screenshots
-
-Zoom	Morphing (Capsule → Star)	Custom Path Animation
-		
-Replace with real screen recordings or Lottie/clean GIFs
-
-🧪 Performance Insights
-Built-in FPS counter for real-time performance tracking
-
-Timeline-aware transitions for smooth gesture interactions
-
-Optimized with @MainActor, @unchecked Sendable where needed
-
 🧰 Powered By
 ✅ GestureAnimator Package
 
@@ -99,6 +86,6 @@ Submit a Pull Request 🚀
 Or open an issue if you’d like to request a feature.
 
 📄 License
-MIT License © [Your Name or Team]
+MIT License © iexpertapps
 
 Built with ❤️ by gesture animation nerds for gesture animation nerds.
